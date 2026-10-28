@@ -9,13 +9,15 @@ API and backend validation, SQL, integration testing, and test automation.
 ## Core Skills
 
 - Manual Testing
+- Automation Testing
 - Web & Mobile Testing
 - API Testing – Postman, Swagger
 - SQL & Database Validation
 - Backend & Integration Testing
-- Java, Selenium, Playwright, Appium
+- Java,TypeScript, Python, Selenium, Playwright, Appium
 - Git, Docker, Kubernetes
 - FinTech & Payment Systems
+  
 
 ## QA Portfolio
 
